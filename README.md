@@ -25,7 +25,13 @@ Al manejar una flota de taxis surgen varias necesidades, como el relacionar la p
 
 
 ## 3. Tecnologías 
-
+<div style="display: inline-block; text-align: center;">
+<img src="images/git.png" alt="Git" width="9%" height="9%" title="Git"/>
+  &nbsp;&nbsp;&nbsp;
+<img src="images/sql.png" alt="SQL" width="9%" height="9%" title="SQL"/>
+<img src="images/git.png" alt="PYTHON" width="10%" height="10%" title="PYTHON"/>
+  
+</div>
 
 ## 4. Documentación Swagger
 [Encuentra todos los endpoints aquí ](https://app.swaggerhub.com/apis-docs/ssinuco/FleetManagementAPI/2.0.0#/taxis/getTaxi)
