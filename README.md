@@ -17,11 +17,11 @@ Al manejar una flota de taxis surgen varias necesidades, como el relacionar la p
 
 
 ## 2. Usos
-1.Ubicación del taxis mediante su id único en relación con su placa.
-2.Ubicación de un taxi mediante su fecha y trayectoria.
-3.Ubicación de las trayectorias recorridas por un taxi.
-4.Creación, eliminación, modificación de usuarios con un token único.
-5.Cifrado de contraseñas.
+*1.Ubicación del taxis mediante su id único en relación con su placa.
+*2.Ubicación de un taxi mediante su fecha y trayectoria.
+*3.Ubicación de las trayectorias recorridas por un taxi.
+*4.Creación, eliminación, modificación de usuarios con un token único.
+*5.Cifrado de contraseñas.
 
 
 ## 3. Tecnologías 
