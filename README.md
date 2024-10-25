@@ -29,7 +29,7 @@ Al manejar una flota de taxis surgen varias necesidades, como el relacionar la p
 <img src="images/git.png" alt="Git" width="9%" height="9%" title="Git"/>
   &nbsp;&nbsp;&nbsp;
 <img src="images/sql.png" alt="SQL" width="9%" height="9%" title="SQL"/>
-<img src="images/git.png" alt="PYTHON" width="10%" height="10%" title="PYTHON"/>
+<img src="images/python.png" alt="PYTHON" width="10%" height="10%" title="PYTHON"/>
   
 </div>
 
