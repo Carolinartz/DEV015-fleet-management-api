@@ -1,6 +1,10 @@
-from flask import Flask
-from app.controllers import get_taxis_controller
+"""
+Aqui va la exetnsion JWT
+"""
 
+from flask_bcrypt import Bcrypt
+from flask_mail import Mail
 
-def init_routes(app: Flask):
-    app.add_url_rule('/taxis', 'get_taxis', get_taxis_controller, methods=['GET'])
+bcrypt = Bcrypt()
+
+mail = Mail()
